@@ -13,6 +13,8 @@ Fabrication Files\Allsky Camera Base v10.stl
 	STL file of the main housing, ready for 3D printing
 Fabrication Files\dome seal v1.dxf
 	DXF files of the rubber gasket for laser cutting or 	stenciling
+Photos
+	Folder of various photos of the system
 
 BILL OF MATERIALS
 1x Allsky Camera Base (3D printed from file, ASA plastic recommended)
