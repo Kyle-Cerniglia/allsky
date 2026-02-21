@@ -4,22 +4,22 @@ This repository contains CAD files for creating your own mount for an outdoor sk
 
 FILE INDEX:
 
-CAD Files\Allsky Camera (Assembly) v9.step
+CAD Files\Allsky Camera (Assembly) v9.step:
 STEP file for the whole assembly to visualize assembly
 
-CAD Files\Allsky Camera Base v10.step
+CAD Files\Allsky Camera Base v10.step:
 STEP file for the main housing, if it needs to be modified for the user
 
-CAD Files\dome seal v1.step
+CAD Files\dome seal v1.step:
 STEP file for the rubber gasket to seal the dome
 
-Fabrication Files\Allsky Camera Base v10.stl
+Fabrication Files\Allsky Camera Base v10.stl:
 STL file of the main housing, ready for 3D printing
 
-Fabrication Files\dome seal v1.dxf
+Fabrication Files\dome seal v1.dxf:
 DXF files of the rubber gasket for laser cutting or 	stenciling
 
-Photos
+Photos\:
 Folder of various photos of the system
 
 
@@ -38,8 +38,8 @@ BILL OF MATERIALS
 - 4x Generic Wood Screws with Washers
 
 PI Setup
-- Download Raspberry Pi OS (64-bit Trixie) from here (https://www.raspberrypi.com/software/operating-systems/). The Lite version can be used for headless operation
-- Install the Raspberry Pi Imager from here (https://www.raspberrypi.com/software/)
+- Download Raspberry Pi OS (64-bit Trixie) to your PC from here (https://www.raspberrypi.com/software/operating-systems/). The Lite version can be used for headless operation, or the full version can be used with a GUI
+- Install the Raspberry Pi Imager onto your PC from here (https://www.raspberrypi.com/software/)
 - Connect the MicroSD card to your PC, and flash the card with the OS using the Raspberry Pi Imager
 - Install the MicroSD card in your PI, connect the PI to a monitor, mouse and keyboard, ethernet (Optional, can use WiFi instead), and apply power
 - Follow the OS installation instructions
@@ -53,8 +53,8 @@ PI Setup
 
 ASSEMBLY
 - Print the Allsky Camera Base
-- Cut the rubber gasket from the sheet
-- Connect the camera to its USB cable, and feed the cable through the hole in the bottom/side of the base, seat the camera in it's pocket (The cable will be a bit of a tight squeeze)
+- Cut the rubber gasket from the rubber sheet
+- Connect the camera to its USB cable, and feed the cable through the hole in the bottom/side of the base, seat the camera in its pocket (The cable will be a bit of a tight squeeze, careful that you don't bend it or the USB port too much)
 - Using the 1/4-20 screw, thread it into the center hole on the bottom of the base, screwing into the camera to secure it
 - Remove the 2.1mm lens that shipped with the camera, and install the 2.5mm lens
 - Using the wood screws and washers, mount this to the side of your house/shed or other mounting method
@@ -63,3 +63,6 @@ ASSEMBLY
 - Slide the gasket onto the 4 screws protruding from the bottom
 - Slide the dome over the gasket onto the 4 screws protruding from the bottom
 - Secure the 4 screws with their nuts
+
+MISC NOTES
+- This camera does NOT have an IR filter, so ensure that there are no security cameras with IR lights pointing at it
