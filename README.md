@@ -1,6 +1,6 @@
 ALLSKY CAMERA REPO OVERVIEW
 
-This repository contains CAD files for creating your own mount for an outdoor sky camera using a ZWO planetary camera, intended for use with the INDI-Allsky software.
+This repository contains CAD files for creating your own mount for an outdoor sky camera using a ZWO planetary camera, intended for use with the INDI-Allsky software (https://github.com/aaronwmorris/indi-allsky).
 
 FILE INDEX:
 CAD Files\Allsky Camera (Assembly) v9.step
