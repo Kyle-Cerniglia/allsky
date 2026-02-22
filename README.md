@@ -17,7 +17,7 @@ Fabrication Files\Allsky Camera Base v10.stl:
 STL file of the main housing, ready for 3D printing
 
 Fabrication Files\dome seal v1.dxf:
-DXF files of the rubber gasket for laser cutting or 	stenciling
+DXF files of the rubber gasket for laser cutting or stenciling
 
 Photos\:
 Folder of various photos of the system
@@ -29,7 +29,7 @@ BILL OF MATERIALS
 - 4x 4-40 1/2" Screw (McMaster-Carr 91772A110 or similar)
 - 4x 4-40 Nut (McMaster-Carr 91841A005 or similar)
 - 1x 1/4-20 1/2" Screw (McMaster-Carr 91772A537 or similar)
-- 1x ZWO ASI662MC Planetary Camera (Or similar camera with a 62mm diameter, and a 1/4-20 screw in the bottom)
+- 1x ZWO ASI662MC Planetary Camera (Alternatively, the ASI676MC has a larger square sensor with an UV/IR filter, but is twice the cost)
 - 1x ZWO 170° 2.5mm CS Lens (The ASI662MC does come with a 150° 2.1mm lens, but this one is better)
 - 1x Raspberry Pi 4B 4GB (Or better)
 - 1x MicroSD card 128GB (Or better)
